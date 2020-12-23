@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1040880612877",
+    "project_id": "album-3322c",
+    "storage_bucket": "album-3322c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1040880612877:android:fb0fd3f554383142b00744",
+        "android_client_info": {
+          "package_name": "com.example.album"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1040880612877-a4vgsah4h0d9svkhnhppqli3qlojprff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdGHUE9yulQfZjs7ZOmJ563WsWq8_KlMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1040880612877-a4vgsah4h0d9svkhnhppqli3qlojprff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
